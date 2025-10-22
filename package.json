@@ -1,0 +1,11 @@
+{
+  "name": "panama-visa-checker",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "update-content": "node scripts/update-content.js"
+  },
+  "dependencies": {
+    "jsdom": "^22.0.0"
+  }
+}
