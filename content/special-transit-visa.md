@@ -14,7 +14,7 @@ The transit visa may be granted for up to a maximum period of twenty-four (24) h
 - Photocopy of the entire passport (including cover and all blank pages) with a minimum validity of six months
 - Valid Hong Kong or Macau Identity Card**
 - Travel itinerary or electronic ticket
-- Two (2) passport sized photos
+- Two passport sized photos
 - Document proving domicile in the country of destination (applicable for Haitians only)
 
 ## Underage Applicants
