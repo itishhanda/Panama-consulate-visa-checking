@@ -28,3 +28,5 @@ The passport must have one entire blank page to issue the visa.
 **With the exception of the passport, ALL documents needs to be translated into Spanish, including the Identity Card by a certified institute/person, translations done online or programs (Google Translate, etc.) will not be accepted.
 
 This Consulate has the right to ask for additional information or reject any application if deemed necessary.
+
+wow so cool and incredible
